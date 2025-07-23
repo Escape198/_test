@@ -19,8 +19,8 @@ REST API для управления кошельками и транзакци�
 
 ### 📁 Клонировать репозиторий
 ```bash
-git clone <YOUR_REPO>
-cd django_wallet_api
+git clone https://github.com/Escape198/_test.git
+cd _test
 ```
 
 ### ⚙️ Запуск проекта
